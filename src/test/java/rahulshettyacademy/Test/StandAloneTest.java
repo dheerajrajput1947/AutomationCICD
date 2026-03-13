@@ -22,7 +22,7 @@ public class StandAloneTest {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-
+        // write for the webhook integration
 		String productName = "ZARA COAT 3";
 		WebDriverManager.chromedriver().setup();
 		ChromeOptions options = new ChromeOptions();
